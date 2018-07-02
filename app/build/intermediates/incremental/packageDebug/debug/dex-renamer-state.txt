@@ -1,0 +1,4 @@
+#Mon May 14 11:34:44 EDT 2018
+base.0=/Users/manasitamboli/Desktop/SimpleDynamo-manasitamboli/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
